@@ -12,7 +12,7 @@ const products=[
  {id:11,name:"Manchester United White",category:"Jerseys",price:null,emoji:"👕",image:"manchester-united-white.jpg"},
  {id:12,name:"Barcelona Purple",category:"Jerseys",price:null,emoji:"👕",image:"barcelona-purple.jpg"},
  {id:13,name:"Barcelona Cyan",category:"Jerseys",price:null,emoji:"👕",image:"barcelona-cyan.jpg"},
- {id:14,name:"Nigeria Black & Yellow",category:"Jerseys",price:null,emoji:"👕",image:"nigeria-black-yellow.jpg"},
+ {id:14,name:"Chelsea Black",category:"Jerseys",price:null,emoji:"👕",image:"nigeria-black-yellow.jpg"},
  {id:15,name:"Real Madrid Green",category:"Jerseys",price:null,emoji:"👕",image:"real-madrid-green.jpg"}
 ];
 let cart=JSON.parse(localStorage.getItem("perezsports-cart")||"[]");
