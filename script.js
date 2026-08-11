@@ -1,19 +1,19 @@
 const products=[
- {id:1,name:"Liverpool All White",category:"Jerseys",price:null,emoji:"👕",image:"liverpool-all-white.png"},
- {id:2,name:"Manchester City White",category:"Jerseys",price:null,emoji:"👕",image:"manchester-city-white.jpg"},
- {id:3,name:"Nigeria Green Set",category:"Jerseys",price:null,emoji:"👕",image:"nigeria-green-set.jpg"},
- {id:4,name:"Real Madrid Dragon",category:"Jerseys",price:null,emoji:"👕",image:"real-madrid-dragon.jpg"},
- {id:5,name:"Kobe #24 Jersey",category:"Jerseys",price:null,emoji:"👕",image:"kobe-24-jersey.jpg"},
- {id:6,name:"Argentina White",category:"Jerseys",price:null,emoji:"👕",image:"argentina-white.jpg"},
- {id:7,name:"PSG White",category:"Jerseys",price:null,emoji:"👕",image:"psg-white.jpg"},
- {id:8,name:"Arsenal Gold",category:"Jerseys",price:null,emoji:"👕",image:"arsenal-gold.jpg"},
- {id:9,name:"Juventus Stripes",category:"Jerseys",price:null,emoji:"👕",image:"juventus-stripes.jpg"},
- {id:10,name:"Manchester United Blue",category:"Jerseys",price:null,emoji:"👕",image:"manchester-united-blue.jpg"},
- {id:11,name:"Manchester United White",category:"Jerseys",price:null,emoji:"👕",image:"manchester-united-white.jpg"},
- {id:12,name:"Barcelona Purple",category:"Jerseys",price:null,emoji:"👕",image:"barcelona-purple.jpg"},
- {id:13,name:"Barcelona Cyan",category:"Jerseys",price:null,emoji:"👕",image:"barcelona-cyan.jpg"},
- {id:14,name:"Chelsea Black",category:"Jerseys",price:null,emoji:"👕",image:"nigeria-black-yellow.jpg"},
- {id:15,name:"Real Madrid Green",category:"Jerseys",price:null,emoji:"👕",image:"real-madrid-green.jpg"}
+ {id:1,name:"Liverpool All White",category:"Jerseys",price:15000,emoji:"👕",image:"liverpool-all-white.png"},
+ {id:2,name:"Manchester City White",category:"Jerseys",price:15000,emoji:"👕",image:"manchester-city-white.jpg"},
+ {id:3,name:"Nigeria Green Set",category:"Jerseys",price:15000,emoji:"👕",image:"nigeria-green-set.jpg"},
+ {id:4,name:"Real Madrid Dragon",category:"Jerseys",price:15000,emoji:"👕",image:"real-madrid-dragon.jpg"},
+ {id:5,name:"Kobe #24 Jersey",category:"Jerseys",price:15000,emoji:"👕",image:"kobe-24-jersey.jpg"},
+ {id:6,name:"Argentina White",category:"Jerseys",price:15000,emoji:"👕",image:"argentina-white.jpg"},
+ {id:7,name:"PSG White",category:"Jerseys",price:15000,emoji:"👕",image:"psg-white.jpg"},
+ {id:8,name:"Arsenal Gold",category:"Jerseys",price:15000,emoji:"👕",image:"arsenal-gold.jpg"},
+ {id:9,name:"Juventus Stripes",category:"Jerseys",price:15000,emoji:"👕",image:"juventus-stripes.jpg"},
+ {id:10,name:"Manchester United Blue",category:"Jerseys",price:15000,emoji:"👕",image:"manchester-united-blue.jpg"},
+ {id:11,name:"Manchester United White",category:"Jerseys",price:15000,emoji:"👕",image:"manchester-united-white.jpg"},
+ {id:12,name:"Barcelona Purple",category:"Jerseys",price:15000,emoji:"👕",image:"barcelona-purple.jpg"},
+ {id:13,name:"Barcelona Cyan",category:"Jerseys",price:15000,emoji:"👕",image:"barcelona-cyan.jpg"},
+ {id:14,name:"Chelsea Black",category:"Jerseys",price:15000,emoji:"👕",image:"nigeria-black-yellow.jpg"},
+ {id:15,name:"Real Madrid Green",category:"Jerseys",price:15000,emoji:"👕",image:"real-madrid-green.jpg"}
 ];
 let cart=JSON.parse(localStorage.getItem("perezsports-cart")||"[]");
 
