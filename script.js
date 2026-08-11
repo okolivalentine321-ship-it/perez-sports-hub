@@ -14,6 +14,18 @@ const products=[
  {id:13,name:"Barcelona Cyan Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"barcelona-cyan.jpg"},
  {id:14,name:"Chelsea Black Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"nigeria-black-yellow.jpg"},
  {id:15,name:"Real Madrid Green Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"real-madrid-green.jpg"}
+  {id:16,name:"AC Milan",category:"Jerseys",price:15000,emoji:"👕",image:"Ac Millan.jpeg"},
+ {id:17,name:"Arsenal Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Arsenal custom.jpeg"},
+ {id:18,name:"Arsenal Dark Red",category:"Jerseys",price:15000,emoji:"👕",image:"arsenal dark red.jpeg"},
+ {id:19,name:"Arsenal Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Arsenal Red collar.jpeg"},
+ {id:20,name:"Barcelona Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"barca black collar.jpeg"},
+ {id:21,name:"Barcelona White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Barcelona White collar.jpeg"},
+ {id:22,name:"Bayern White",category:"Jerseys",price:15000,emoji:"👕",image:"bayern white.jpeg"},
+ {id:23,name:"Chelsea",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea .jpeg"},
+ {id:24,name:"Chelsea Black & Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea black and blue samsung.jpeg"},
+ {id:25,name:"Chelsea Black",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea Black.jpeg"},
+ {id:26,name:"Chelsea Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea Blue samsung.jpeg"},
+ {id:27,name:"Chelsea Blue Collar",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea collar blue.jpeg"}
 ];
 let cart=JSON.parse(localStorage.getItem("perezsports-cart")||"[]");
 
