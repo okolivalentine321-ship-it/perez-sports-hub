@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/30931606/README.md)
 # PEREZ SPORTS HUB Store
 
 A simple responsive football jersey e-commerce storefront made with HTML, CSS and JavaScript.
@@ -19,3 +20,12 @@ Open `index.html` in a browser.
 - Replace the WhatsApp number in `script.js` (`2348000000000`) with your business WhatsApp number.
 - Add your real prices, sizes, shipping information and return policy.
 - For real online payments in Nigeria, connect a payment provider such as Paystack or Flutterwave rather than relying only on the demo checkout.
+
+
+## Added product
+- Liverpool All White — ₦15,000
+- Product image: `images/liverpool-all-white.png`
+
+
+## New jersey collection
+14 uploaded jersey photos have been cleaned, consistently cropped, enhanced, and added under `images/`. Product prices are intentionally left unset so they can be entered later in `script.js`.
