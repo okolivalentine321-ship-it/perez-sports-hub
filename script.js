@@ -44,6 +44,6 @@ function openCart(){document.getElementById("cart").classList.add("open");docume
 function checkout(){
  if(!cart.length)return alert("Your cart is empty.");
  let message="Hello PEREZ SPORTS HUB! I want to order:%0A"+cart.map(x=>{let p=products.find(y=>y.id===x.id);return `- ${p.name} x${x.qty} (${naira(p.price*x.qty)})`}).join("%0A");
- window.open("https://wa.me/2348000000000?text="+message,"_blank");
+ window.open("https://wa.me/2349164682232?text="+message,"_blank");
 }
 renderProducts();renderCart();
