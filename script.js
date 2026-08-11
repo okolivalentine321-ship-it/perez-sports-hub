@@ -1,6 +1,6 @@
 const products=[
- {id:1,name:"Liverpool All White",category:"Jerseys",price:null,emoji:"👕",image:"images/liverpool-all-white.png"},
- {id:2,name:"Manchester City White",category:"Jerseys",price:null,emoji:"👕",image:"images/manchester-city-white.jpg"},
+ {id:1,name:"Liverpool All White",category:"Jerseys",price:null,emoji:"👕",image:"liverpool-all-white.png"},
+ {id:2,name:"Manchester City White",category:"Jerseys",price:null,emoji:"👕",image:"manchester-city-white.jpg"},
  {id:3,name:"Nigeria Green Set",category:"Jerseys",price:null,emoji:"👕",image:"images/nigeria-green-set.jpg"},
  {id:4,name:"Real Madrid Dragon",category:"Jerseys",price:null,emoji:"👕",image:"images/real-madrid-dragon.jpg"},
  {id:5,name:"Kobe #24 Jersey",category:"Jerseys",price:null,emoji:"👕",image:"images/kobe-24-jersey.jpg"},
