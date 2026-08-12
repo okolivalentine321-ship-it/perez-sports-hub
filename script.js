@@ -12,7 +12,7 @@ const products=[
  {id:11,name:"Manchester United White player Version",category:"Jerseys",price:25000,emoji:"👕",image:"manchester-united-white.jpg"},
  {id:12,name:"Barcelona Purple player Version",category:"Jerseys",price:25000,emoji:"👕",image:"barcelona-purple.jpg"},
  {id:13,name:"Barcelona Cyan player Version",category:"Jerseys",price:25000,emoji:"👕",image:"barcelona-cyan.jpg"},
- {id:14,name:"Chelsea Black Fan Version",category:"Jerseys",price:25000,emoji:"👕",image:"nigeria-black-yellow.jpg"},
+ {id:14,name:"Chelsea Black player Version",category:"Jerseys",price:25000,emoji:"👕",image:"nigeria-black-yellow.jpg"},
  {id:15,name:"Real Madrid Green player Version",category:"Jerseys",price:25000,emoji:"👕",image:"real-madrid-green.jpg"},
   {id:16,name:"AC Milan",category:"Jerseys",price:15000,emoji:"👕",image:"Ac Millan.jpeg"},
  {id:17,name:"Arsenal Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Arsenal custom.jpeg"},
