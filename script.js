@@ -24,7 +24,7 @@ const products=[
  {id:23,name:"Chelsea",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea .jpeg"},
  {id:24,name:"Chelsea Black & Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea black and blue samsung.jpeg"},
  {id:25,name:"Chelsea Black",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea Black.jpeg"},
- {id:26,name:"Chelsea Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea Blue samsung.jpeg"},
+ {id:26,name:"Chelsea Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea Blue samsung collar.jpeg"},
  {id:27,name:"Chelsea Blue Collar",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea collar blue.jpeg"},
  {id:28,name:"Chelsea Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea samsung.jpeg"},
  {id:29,name:"Chelsea",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea.jpeg"},
@@ -37,7 +37,7 @@ const products=[
  {id:36,name:"Liverpool Custom Black",category:"Jerseys",price:15000,emoji:"👕",image:"liverpool custom black.jpeg"},
  {id:37,name:"Liverpool Jersey",category:"Jerseys",price:15000,emoji:"👕",image:"liverpool jersey.jpeg"},
  {id:38,name:"Real Madrid Green Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Madrid collar green.jpeg"},
- {id:39,name:"Real Madrid White",category:"Jerseys",price:15000,emoji:"👕",image:"Madrid white.jpeg"},
+ {id:39,name:"Real Madrid White",category:"Jerseys",price:15000,emoji:"👕",image:"Madrid white .jpeg"},
  {id:40,name:"Real Madrid",category:"Jerseys",price:15000,emoji:"👕",image:"madrid.jpeg"},
  {id:41,name:"Manchester United",category:"Jerseys",price:15000,emoji:"👕",image:"Man U .jpeg"},
  {id:42,name:"Manchester United Black Collar Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Man u black collar custom.jpeg"},
@@ -53,7 +53,7 @@ const products=[
  {id:52,name:"AC Milan Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Milan custom.jpeg"},
  {id:53,name:"Newcastle Black",category:"Jerseys",price:15000,emoji:"👕",image:"Newcastle black.jpeg"},
  {id:54,name:"Portugal Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"portugal black collar .jpeg"},
- {id:55,name:"Racing Club",category:"Jerseys",price:15000,emoji:"👕",image:"Racing Club.jpeg"},
+ {id:55,name:"Racing Club",category:"Jerseys",price:15000,emoji:"👕",image:"real racing club collar.jpeg"},
  {id:56,name:"Santos Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Santos Black collar.jpeg"}
 ];
 let cart=JSON.parse(localStorage.getItem("perezsports-cart")||"[]");
