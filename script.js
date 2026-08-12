@@ -26,6 +26,27 @@ const products=[
  {id:25,name:"Chelsea Black",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea Black.jpeg"},
  {id:26,name:"Chelsea Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea Blue samsung.jpeg"},
  {id:27,name:"Chelsea Blue Collar",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea collar blue.jpeg"}
+ {id:28,name:"Chelsea Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea samsung.jpeg"},
+ {id:29,name:"Chelsea",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea.jpeg"},
+ {id:30,name:"Manchester City Etihad",category:"Jerseys",price:15000,emoji:"👕",image:"city etihad.jpeg"},
+ {id:31,name:"Manchester City White",category:"Jerseys",price:15000,emoji:"👕",image:"city white.jpeg"},
+ {id:32,name:"England",category:"Jerseys",price:15000,emoji:"👕",image:"england .jpeg"},
+ {id:33,name:"France Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"French black collar.jpeg"},
+ {id:34,name:"Lazio Vintage",category:"Jerseys",price:15000,emoji:"👕",image:"Lazio vintage.jpeg"},
+ {id:35,name:"Liverpool White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Liverpool collar white.jpeg"},
+ {id:36,name:"Liverpool Custom Black",category:"Jerseys",price:15000,emoji:"👕",image:"liverpool custom black.jpeg"},
+ {id:37,name:"Liverpool Jersey",category:"Jerseys",price:15000,emoji:"👕",image:"liverpool jersey.jpeg"},
+ {id:38,name:"Real Madrid Green Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Madrid collar green.jpeg"},
+ {id:39,name:"Real Madrid White",category:"Jerseys",price:15000,emoji:"👕",image:"Madrid white.jpeg"},
+ {id:40,name:"Real Madrid",category:"Jerseys",price:15000,emoji:"👕",image:"madrid.jpeg"},
+ {id:41,name:"Manchester United",category:"Jerseys",price:15000,emoji:"👕",image:"Man U .jpeg"},
+ {id:42,name:"Manchester United Black Collar Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Man u black collar custom.jpeg"},
+ {id:43,name:"Manchester United Black",category:"Jerseys",price:15000,emoji:"👕",image:"Man u black.jpeg"},
+ {id:44,name:"Manchester United Blue Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar blue.jpeg"},
+ {id:45,name:"Manchester United Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar red.jpeg"},
+ {id:46,name:"Manchester United Vintage Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar vintage .jpeg"},
+ {id:47,name:"Manchester United White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar white.jpeg"},
+ {id:48,name:"Manchester United Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u red collar.jpeg"}
 ];
 let cart=JSON.parse(localStorage.getItem("perezsports-cart")||"[]");
 
