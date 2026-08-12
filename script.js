@@ -35,7 +35,7 @@ const products=[
  {id:34,name:"Lazio Vintage",category:"Jerseys",price:15000,emoji:"👕",image:"Lazio vintage.jpeg"},
  {id:35,name:"Liverpool White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Liverpool collar white.jpeg"},
  {id:36,name:"Liverpool Custom Black",category:"Jerseys",price:15000,emoji:"👕",image:"liverpool custom black.jpeg"},
- {id:37,name:"Liverpool Jersey",category:"Jerseys",price:15000,emoji:"👕",image:"liverpool jersey.jpeg"},
+ {id:37,name:"Liverpool Jersey",category:"Jerseys",price:15000,emoji:"👕",image:"Liverpool vintage.jpeg"},
  {id:38,name:"Real Madrid Green Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Madrid collar green.jpeg"},
  {id:39,name:"Real Madrid White",category:"Jerseys",price:15000,emoji:"👕",image:"Madrid white .jpeg"},
  {id:40,name:"Real Madrid",category:"Jerseys",price:15000,emoji:"👕",image:"madrid.jpeg"},
