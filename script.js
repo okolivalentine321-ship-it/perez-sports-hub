@@ -52,7 +52,7 @@ const products=[
  {id:51,name:"AC Milan Classics",category:"Jerseys",price:15000,emoji:"👕",image:"Milan Classics.jpeg"},
  {id:52,name:"AC Milan Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Milan custom.jpeg"},
  {id:53,name:"Newcastle Black",category:"Jerseys",price:15000,emoji:"👕",image:"Newcastle black.jpeg"},
- {id:54,name:"Portugal Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"portugal black collar .jpeg"},
+ {id:54,name:"Portugal Black Collar",category:"Jerseys",price:25000,emoji:"👕",image:"portugal black collar .jpeg"},
  {id:55,name:"Racing Club",category:"Jerseys",price:15000,emoji:"👕",image:"real racing club collar.jpeg"},
  {id:56,name:"Santos Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Santos Black collar.jpeg"}
 ];
