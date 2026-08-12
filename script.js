@@ -24,7 +24,7 @@ const products=[
  {id:23,name:"Chelsea",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea .jpeg"},
  {id:24,name:"Chelsea Black & Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea black and blue samsung.jpeg"},
  {id:25,name:"Chelsea Black",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea Black.jpeg"},
- {id:26,name:"Chelsea Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea Blue samsung collar.jpeg"},
+ {id:26,name:"Chelsea Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea Blue samsung collar .jpeg"},
  {id:27,name:"Chelsea Blue Collar",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea collar blue.jpeg"},
  {id:28,name:"Chelsea Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea samsung.jpeg"},
  {id:29,name:"Chelsea",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea.jpeg"},
