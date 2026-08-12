@@ -13,7 +13,7 @@ const products=[
  {id:12,name:"Barcelona Purple Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"barcelona-purple.jpg"},
  {id:13,name:"Barcelona Cyan Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"barcelona-cyan.jpg"},
  {id:14,name:"Chelsea Black Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"nigeria-black-yellow.jpg"},
- {id:15,name:"Real Madrid Green Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"real-madrid-green.jpg"}
+ {id:15,name:"Real Madrid Green Fan Version",category:"Jerseys",price:15000,emoji:"👕",image:"real-madrid-green.jpg"},
   {id:16,name:"AC Milan",category:"Jerseys",price:15000,emoji:"👕",image:"Ac Millan.jpeg"},
  {id:17,name:"Arsenal Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Arsenal custom.jpeg"},
  {id:18,name:"Arsenal Dark Red",category:"Jerseys",price:15000,emoji:"👕",image:"arsenal dark red.jpeg"},
@@ -25,7 +25,7 @@ const products=[
  {id:24,name:"Chelsea Black & Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea black and blue samsung.jpeg"},
  {id:25,name:"Chelsea Black",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea Black.jpeg"},
  {id:26,name:"Chelsea Blue Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea Blue samsung.jpeg"},
- {id:27,name:"Chelsea Blue Collar",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea collar blue.jpeg"}
+ {id:27,name:"Chelsea Blue Collar",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea collar blue.jpeg"},
  {id:28,name:"Chelsea Samsung",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea samsung.jpeg"},
  {id:29,name:"Chelsea",category:"Jerseys",price:15000,emoji:"👕",image:"Chelsea.jpeg"},
  {id:30,name:"Manchester City Etihad",category:"Jerseys",price:15000,emoji:"👕",image:"city etihad.jpeg"},
@@ -46,7 +46,7 @@ const products=[
  {id:45,name:"Manchester United Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar red.jpeg"},
  {id:46,name:"Manchester United Vintage Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar vintage .jpeg"},
  {id:47,name:"Manchester United White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar white.jpeg"},
- {id:48,name:"Manchester United Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u red collar.jpeg"}
+ {id:48,name:"Manchester United Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u red collar.jpeg"},
  {id:49,name:"Manchester United Red",category:"Jerseys",price:15000,emoji:"👕",image:"Man u red.jpeg"},
  {id:50,name:"Manchester United White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u white collar.jpeg"},
  {id:51,name:"AC Milan Classics",category:"Jerseys",price:15000,emoji:"👕",image:"Milan Classics.jpeg"},
