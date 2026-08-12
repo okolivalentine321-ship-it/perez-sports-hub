@@ -47,6 +47,14 @@ const products=[
  {id:46,name:"Manchester United Vintage Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar vintage .jpeg"},
  {id:47,name:"Manchester United White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar white.jpeg"},
  {id:48,name:"Manchester United Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u red collar.jpeg"}
+ {id:49,name:"Manchester United Red",category:"Jerseys",price:15000,emoji:"👕",image:"Man u red.jpeg"},
+ {id:50,name:"Manchester United White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u white collar.jpeg"},
+ {id:51,name:"AC Milan Classics",category:"Jerseys",price:15000,emoji:"👕",image:"Milan Classics.jpeg"},
+ {id:52,name:"AC Milan Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Milan custom.jpeg"},
+ {id:53,name:"Newcastle Black",category:"Jerseys",price:15000,emoji:"👕",image:"Newcastle black.jpeg"},
+ {id:54,name:"Portugal Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"portugal black collar .jpeg"},
+ {id:55,name:"Racing Club",category:"Jerseys",price:15000,emoji:"👕",image:"Racing Club.jpeg"},
+ {id:56,name:"Santos Black Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Santos Black collar.jpeg"}
 ];
 let cart=JSON.parse(localStorage.getItem("perezsports-cart")||"[]");
 
