@@ -47,7 +47,7 @@ const products=[
  {id:46,name:"Manchester United Vintage Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man u collar vintage .jpeg"},
  {id:47,name:"Manchester United White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man U collar white.jpeg"},
  {id:48,name:"Manchester United Red Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man U red collar.jpeg"},
- {id:49,name:"Manchester United Red",category:"Jerseys",price:15000,emoji:"👕",image:"Man U red.jpeg"},
+ {id:49,name:"Cheslsea New ",category:"Jerseys",price:15000,emoji:"👕",image:"chelsea new.jpeg"},
  {id:50,name:"Manchester United White Collar",category:"Jerseys",price:15000,emoji:"👕",image:"Man U white collar.jpeg"},
  {id:51,name:"AC Milan Classics",category:"Jerseys",price:15000,emoji:"👕",image:"Milan Classics.jpeg"},
  {id:52,name:"AC Milan Custom",category:"Jerseys",price:15000,emoji:"👕",image:"Milan custom.jpeg"},
